@@ -22,7 +22,7 @@
    
     color: white;
     position: absolute;
-    top: 10rem;
+    top: 4rem;
     left: 50%;
     transform: translateX(-50%);
     background-color: rgba(255,255,0,0.15);
@@ -103,9 +103,5 @@ h1{
 h3{
     color:darkslategray;
     
-    position: relative;
-    display: flex;
-
-
-    justify-content: space-between;
+   
 }
